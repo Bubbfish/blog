@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "vuepress建立博客",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bubbfish/blog.git"
+  },
+  "keywords": [
+    "vuePress"
+  ],
+  "author": "wurunpu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bubbfish/blog/issues"
+  },
+  "homepage": "https://github.com/Bubbfish/blog#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.27"
+  }
+}
